@@ -1,2 +1,2 @@
-# own_RPI_Streamer_PCB
+# Own_RPI_Streamer_PCB
 Platzhalter
