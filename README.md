@@ -4,7 +4,7 @@ PCB files for RPI Streamer Board
 
 # Description
 
-This is a main board to hold a Raspberry Pi and the Hifyberry Digi2 Pro expansion board. This puts the connections I need (for me) on one side to be able to build my own streamer.
+This is a main board to hold a Raspberry Pi (4) and the Hifyberry Digi2 Pro expansion board. This puts the connections I need (for me) on one side to be able to build my own streamer.
 
 Part 1 of 2, part 2 is Own_RPI_Expansion_PCB.
 
