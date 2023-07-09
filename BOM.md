@@ -22,6 +22,9 @@ part list for Use
 1x white 0805 https://www.digikey.de/de/products/detail/everlight-electronics-co-ltd/EAST2012WA1/11200795<br>
 2x orange 0805 https://www.digikey.de/de/products/detail/rohm-semiconductor/SML-H12D8TT86C/9090443<br>
 
+# switch
+1x (THT - Side) https://www.digikey.de/de/products/detail/nkk-switches/GW12LCH/1052001?s=N4IgTCBcDaIOIHUCMYAyBhAEiAugXyA
+
 # resistor
 1x 500Ohm<br>
 - 1x 200Ohm 0805 https://www.reichelt.de/smd-widerstand-0805-300-ohm-125-mw-0-1--spr-0805-300-p123232.html?&trstct=pol_2&nbc=1<br>
