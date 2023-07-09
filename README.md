@@ -27,13 +27,13 @@ Iout: 3A<br>
 # Layout
 
 Top<br>
-![Streamer_Top_v1 0](https://github.com/CrackXT/Own_RPI_Streamer_PCB/assets/88975406/e0ca7760-df2c-4e0b-b389-9d44c2a153d4)
+![Streamer_Top_v1 1](https://github.com/CrackXT/Own_RPI_Streamer_PCB/assets/88975406/b6cbf77f-dbc7-4fc6-ba29-6b3af89b0ecb)
 
 Bottom<br>
-![Streamer_Bottom_v1 0 png](https://github.com/CrackXT/Own_RPI_Streamer_PCB/assets/88975406/d2b89899-cb1e-4738-bd4a-1f4c93c2db94)
+![Streamer_Bottom_v1 1](https://github.com/CrackXT/Own_RPI_Streamer_PCB/assets/88975406/e4b04f24-24f0-4713-af31-c0d38cac4d87)
 
 Routing/Dimensions(mm)<br>
-![Streamer_v1 0](https://github.com/CrackXT/Own_RPI_Streamer_PCB/assets/88975406/a5c2bd44-fc14-411e-9670-4e2d1208333b)
+![Streamer_v1 1](https://github.com/CrackXT/Own_RPI_Streamer_PCB/assets/88975406/2f41a6f8-b1bd-456d-a5b8-0f88906af48a)
 
 Schematic<br>
 Schematic as .pdf at the top of the page.
@@ -48,4 +48,4 @@ Own design and layout.
 
 # Version - Build
 
-v1.0 - 08.07.2023
+v1.1 - 09.07.2023
