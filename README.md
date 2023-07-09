@@ -4,9 +4,21 @@ PCB files for RPI Streamer Board
 
 # Description
 
-Platzhalter
+This is a main board to hold a Raspberry Pi and the Hifyberry Digi2 Pro expansion board. This puts the connections I need (for me) on one side to be able to build my own streamer.
+
+Part 1 of 2, part 2 is Own_RPI_Expansion_PCB.
+
+The internal "power supply" delivers at 5V@3A, sensor and RGB are powered by part 2.
+
+There is a temperature sensor (Sensirion SHT45) and an unregulated fan connector (e.g. Noctua NF-A4x20 5V) under the SoC. In addition there is the possibility to connect a lighting (RGB). Furthermore, the following connections are available... USB-C (power supply), USB-A 3.0 (data, e.g. USB stick with music on it), main switch, QWIIC/StemmaQT (sensor) and an external 5V connector (for part 2).
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
+
+# Spec
+
+Vin: 2.8 - 22V
+Vout: 5V (typ., min.4,85V, max.5,15V)
+Iout: 3A
 
 # Serie
 
