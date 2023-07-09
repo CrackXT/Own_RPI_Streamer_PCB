@@ -22,13 +22,17 @@ part list for Use
 2x orange 0805 https://www.digikey.de/de/products/detail/rohm-semiconductor/SML-H12D8TT86C/9090443<br>
 
 # resistor
+1x 500Ohm<br>
+- 1x 200Ohm 0805 https://www.reichelt.de/smd-widerstand-0805-300-ohm-125-mw-0-1--spr-0805-300-p123232.html?&trstct=pol_2&nbc=1<br>
+- 1x 300Ohm 0805 https://www.reichelt.de/smd-widerstand-0805-200-ohm-125-mw-0-1--spr-0805-200-p123225.html?&trstct=pol_1&nbc=1<br>
+
 1x 1100Ohm 0805 https://www.reichelt.de/smd-widerstand-0805-1-1-kohm-0-1-tk25-125-mw-spr-0805-1-10k-p123253.html?&trstct=pol_0&nbc=1<br>
-1x 2800Ohm 0805 
+1x 2800Ohm 0805 https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERA-6AEB2801V/2025702<br>
 2x 5100Ohm 0805 https://www.reichelt.de/smd-widerstand-0805-5-1-kohm-125-mw-0-1--spr-0805-5-10k-p123287.html?&trstct=pol_2&nbc=1<br>
 2x 10000Ohm 0805 https://www.reichelt.de/smd-widerstand-0805-10-kohm-0-1-tk25-125-mw-spr-0805-10-0k-p123305.html?&trstct=pol_0&nbc=1<br>
 
 # capacitor
-1x 0,1µF xxxx 
+1x 0,1µF 0805 https://www.reichelt.de/vielschicht-kerko-100nf-50v-125-c-kem-x7r0805-100n-p207073.html?&trstct=pol_2&nbc=1
 
 # socket strips
 1x 1X3 https://www.reichelt.de/buchsenleiste-2-54mm-1x3-gerade-bkl-10120945-p266670.html?&trstct=pol_1&nbc=1
