@@ -16,9 +16,9 @@ The board can be produced here (AISLER) with the files (.brd and .sch) or by any
 
 # Spec
 
-Vin: 2.8 - 22V
-Vout: 5V (typ., min.4,85V, max.5,15V)
-Iout: 3A
+Vin: 2.8 - 22V<br>
+Vout: 5V (typ., min.4,85V, max.5,15V)<br>
+Iout: 3A<br>
 
 # Serie
 
