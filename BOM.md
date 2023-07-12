@@ -41,10 +41,10 @@ part list for Use
 # socket strips
 3x 1X2 https://www.reichelt.de/buchsenleiste-2-54mm-1x2-gerade-bkl-10120944-p266669.html?&trstct=pol_1&nbc=1<br>
 1x 1X4 https://www.reichelt.de/buchsenleiste-2-54mm-1x4-gerade-bkl-10120946-p266671.html?&trstct=pol_0&nbc=1<br>
+1x 1X5 https://www.reichelt.de/buchsenleiste-2-54mm-1x5-gerade-bkl-10120947-p266672.html?&trstct=pol_1&nbc=1<br>
 1x 2X20 https://www.reichelt.de/buchsenleiste-2-54mm-2x20-gerade-bkl-10120963-p266688.html?&trstct=pol_0&nbc=1<br>
 
 # pin headers
-1x 1X36 (1X3) https://www.conrad.de/de/p/fischer-elektronik-stiftleiste-standard-anzahl-reihen-1-polzahl-je-reihe-36-sl-lp-1-082-36-z-1-st-739416.html<br>
 1x 1X3 https://www.digikey.de/de/products/detail/molex/0022232031/26669?s=N4IgTCBcDaILYHsA2BTAHgAjGAtGAzHgAz4CMIAugL5A<br>
 1x 2X20 https://www.reichelt.de/stiftleiste-2x20-pol-vergoldet-2-54mm-bkl-10120516-p235663.html?&trstct=pol_0&nbc=1<br>
 
