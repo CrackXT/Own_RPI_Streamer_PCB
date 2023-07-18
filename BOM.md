@@ -6,7 +6,7 @@ part list for Use
 1x USB-C connector https://www.digikey.de/de/products/detail/gct/USB4125-GF-A-0190/14559038
 
 # USB-A
-2x USB-A connector https://www.digikey.de/de/products/detail/gct/USB4140-GF-0170-C/16181939
+2x USB-A connector https://www.digikey.de/de/products/detail/assmann-wsw-components/AU-Y1005-3/2217979
 
 # regulator
 1x S13V30F5 https://www.berrybase.de/pololu-5v-step-up/step-down-spannungsregler-s13v30f5
