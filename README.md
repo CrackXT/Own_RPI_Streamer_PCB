@@ -11,7 +11,7 @@ https://github.com/CrackXT/Own_RPI_Expansion_PCB
 
 The internal "power supply" (Pololu S13V30F5) delivers at 5V@3A, sensor and RGB are powered by part 2.
 
-There is a temperature sensor (Sensirion SHT45) and an unregulated fan connector (e.g. Noctua NF-A4x20 5V) under the SoC. In addition there is the possibility to connect a lighting (RGB). Furthermore, the following connections are available... USB-C (power supply), USB-A 3.0 (data, e.g. USB stick with music on it), main switch, QWIIC/StemmaQT (sensor) and an external 5V connector (for part 2).
+There is a temperature sensor (Sensirion SHT45) under the SoC and an additional unregulated fan connector (e.g. Noctua NF-A4x20 5V). In addition there is the possibility to connect a lighting (RGB). Furthermore, the following connections are available... USB-C (power supply), USB-A 3.0 (data, e.g. USB stick with music on it), main switch, QWIIC/StemmaQT (sensor) and an external 5V connector (for part 2).
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
