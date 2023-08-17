@@ -6,9 +6,7 @@ PCB files for RPI Streamer Board
 
 This is a main board to hold a Raspberry Pi (4) and the Hifyberry Digi2 Pro expansion board. This puts the connections I need (for me) on one side to be able to build my own streamer.
 
-Part 1 of 3, part 2 is Own_RPI_Expansion_PCB and part 3 is Own_RPI_Bridge_PCB.<br>
-https://github.com/CrackXT/Own_RPI_Expansion_PCB<br>
-https://github.com/CrackXT/Own_RPI_Bridge_PCB<br>
+- Part 1
 
 The internal "power supply" (Pololu S13V30F5) delivers at 5V@3A, sensor and RGB are powered by part 2.
 
