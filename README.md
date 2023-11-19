@@ -8,7 +8,7 @@ This is a main board to hold a Raspberry Pi (4) and the Hifyberry Digi2 Pro expa
 
 - Part 1
 
-The internal "power supply" (Pololu S13V30F5) delivers at 5V@3A, sensor and RGB are powered by part 2.
+The internal "power supply" (Pololu S13V30F5) delivers at 5V@3A, sensor and RGB are control by part 2.
 
 There is a temperature sensor (Sensirion SHT45) under the SoC and an additional unregulated fan connector (e.g. Noctua NF-A4x20 5V). In addition there is the possibility to connect a lighting (RGB). Furthermore, the following connections are available... USB-C (power supply), USB-A 3.0 (data, e.g. USB stick with music on it), main switch, QWIIC/StemmaQT (sensor) and an external 5V connector (for part 2).
 
@@ -27,13 +27,13 @@ Iout: 3A<br>
 # Layout
 
 Top<br>
-![Streamer_Top_v1 3](https://github.com/CrackXT/Own_RPI_Streamer_PCB/assets/88975406/fa4cf89e-d5a7-4cc2-a4c4-5b7617c9dc64)
+![Streamer_Top_v1 4](https://github.com/CrackXT/Own_RPI_Streamer_PCB/assets/88975406/5dd89c11-b92f-4d7f-b379-6e6e650cc60d)
 
 Bottom<br>
-![Streamer_Bottom_v1 2](https://github.com/CrackXT/Own_RPI_Streamer_PCB/assets/88975406/ddd26ace-10b6-4fae-9d76-de1fc77709cd)
+![Streamer_Bottom_v1 4](https://github.com/CrackXT/Own_RPI_Streamer_PCB/assets/88975406/8abfa396-234c-4a40-b0f2-f3d10c4c6bd4)
 
 Routing/Dimensions(mm)<br>
-![Streamer_v1 3](https://github.com/CrackXT/Own_RPI_Streamer_PCB/assets/88975406/5e618000-e0f5-4cc4-a7af-40e821e27357)
+![Streamer_v1 4](https://github.com/CrackXT/Own_RPI_Streamer_PCB/assets/88975406/b2771dfc-d68b-4480-aa7c-dcb007886f6c)
 
 Schematic<br>
 Schematic as .pdf at the top of the page.
@@ -48,4 +48,4 @@ Own design and layout.
 
 # Version - Build
 
-v1.3 - 21.10.2023
+v1.4 - 06.11.2023
