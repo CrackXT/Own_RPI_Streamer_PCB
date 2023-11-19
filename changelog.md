@@ -25,3 +25,7 @@ v1.3 - 21.10.2023
 - Component designation completed
 - Measuring bridge integrated
 - esd protection
+
+v1.6 - 06.11.2023
+- reduced from 13pin flex connector to 11pin
+- LEDs can now be deactivated via detachable bridges
